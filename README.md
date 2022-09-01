@@ -8,4 +8,4 @@ The preparation of the notebooks on mybinder may take up to a few minutes.
 
 If there are problems with the notebooks please get in touch. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/coursera/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/coursera/HEAD?urlpath=/tree/)
